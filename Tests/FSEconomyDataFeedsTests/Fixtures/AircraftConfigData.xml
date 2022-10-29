@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<AircraftConfigItems total="374" xmlns="https://server.fseconomy.net" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="https://server.fseconomy.net/static/xsd/datafeed_aircraftconfigs.xsd">
+<AircraftConfig>
+<MakeModel>Aermacchi - Lockheed AL-60</MakeModel>
+<Crew>0</Crew>
+<Seats>8</Seats>
+<CruiseSpeed>218</CruiseSpeed>
+<GPH>35</GPH>
+<FuelType>0</FuelType>
+<MTOW>2051</MTOW>
+<EmptyWeight>1068</EmptyWeight>
+<Price>421050.00</Price>
+<Ext1>0</Ext1>
+<LTip>0</LTip>
+<LAux>0</LAux>
+<LMain>0</LMain>
+<Center1>125</Center1>
+<Center2>0</Center2>
+<Center3>0</Center3>
+<RMain>0</RMain>
+<RAux>0</RAux>
+<RTip>0</RTip>
+<Ext2>0</Ext2>
+<Engines>1</Engines>
+<EnginePrice>44000.00</EnginePrice>
+<ModelId>95</ModelId>
+<MaxCargo>906</MaxCargo>
+</AircraftConfig>
+</AircraftConfigItems>

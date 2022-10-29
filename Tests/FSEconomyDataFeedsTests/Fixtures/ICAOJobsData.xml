@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<IcaoJobsTo total="50" xmlns="https://server.fseconomy.net" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="https://server.fseconomy.net/static/xsd/datafeed_jobs.xsd">
+<Assignment>
+<Id>366688798</Id>
+<Location>19AK</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>19AK</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>UGP UX32 &amp;#10052;&amp;#65039;</Commodity>
+<Pay>922.00</Pay>
+<Expires>1 days</Expires>
+<ExpireDateTime>2022-10-31 03:31:03</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366686822</Id>
+<Location>19AK</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>19AK</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>UGP UX35 &amp;#10052;&amp;#65039;</Commodity>
+<Pay>922.00</Pay>
+<Expires>1 days</Expires>
+<ExpireDateTime>2022-10-31 03:01:01</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366600769</Id>
+<Location>2Y3</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>2Y3</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>UGP UX38 &amp;#10052;&amp;#65039;</Commodity>
+<Pay>914.00</Pay>
+<Expires>8 mins</Expires>
+<ExpireDateTime>2022-10-29 19:31:05</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366659011</Id>
+<Location>2Y3</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>2Y3</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>UGP UX38 &amp;#10052;&amp;#65039;</Commodity>
+<Pay>914.00</Pay>
+<Expires>21 hrs</Expires>
+<ExpireDateTime>2022-10-30 17:01:05</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366660369</Id>
+<Location>3Z9</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>3Z9</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Passenger</Commodity>
+<Pay>795.00</Pay>
+<Expires>2 hrs</Expires>
+<ExpireDateTime>2022-10-29 21:31:03</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366609085</Id>
+<Location>A68</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>A68</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>UGP UX39 &amp;#10052;&amp;#65039;</Commodity>
+<Pay>914.00</Pay>
+<Expires>3 hrs</Expires>
+<ExpireDateTime>2022-10-29 22:31:02</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366548391</Id>
+<Location>A69</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>A69</FromIcao>
+<Amount>162</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>1356.00</Pay>
+<Expires>1 days</Expires>
+<ExpireDateTime>2022-10-31 10:30:58</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366725448</Id>
+<Location>CEK2</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>CEK2</FromIcao>
+<Amount>3</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Class 2A Patient Transport</Commodity>
+<Pay>998.00</Pay>
+<Expires>11 hrs</Expires>
+<ExpireDateTime>2022-10-30 06:31:01</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>VIP</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366473089</Id>
+<Location>CFP4</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CFP4</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>McQuesten Yukon Do It Passenger</Commodity>
+<Pay>677.00</Pay>
+<Expires>4 hrs</Expires>
+<ExpireDateTime>2022-10-29 23:31:04</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366464436</Id>
+<Location>CFP4</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CFP4</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>McQuesten Yukon Do It Passenger</Commodity>
+<Pay>677.00</Pay>
+<Expires>1 hrs</Expires>
+<ExpireDateTime>2022-10-29 20:31:02</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366647580</Id>
+<Location>CFP4</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CFP4</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Mayo Yukon Do It Passenger</Commodity>
+<Pay>677.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 13:01:04</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366600294</Id>
+<Location>CFP4</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CFP4</FromIcao>
+<Amount>2</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>158.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 03:31:01</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366644975</Id>
+<Location>CFP4</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CFP4</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Mayo Yukon Do It Passenger</Commodity>
+<Pay>677.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 12:01:03</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366663996</Id>
+<Location>CFP8</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>CFP8</FromIcao>
+<Amount>1</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>150.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 11:00:59</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366533744</Id>
+<Location>CFS4</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CFS4</FromIcao>
+<Amount>1</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>228.00</Pay>
+<Expires>1 days</Expires>
+<ExpireDateTime>2022-10-31 06:31:00</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366765577</Id>
+<Location>CYDB</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CYDB</FromIcao>
+<Amount>88</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>1077.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 08:30:57</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366641167</Id>
+<Location>CYDL</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDL</FromIcao>
+<Amount>126</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>1541.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 01:31:11</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366544159</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>176</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>806.00</Pay>
+<Expires>1 days</Expires>
+<ExpireDateTime>2022-10-31 08:01:03</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366639598</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Ross River Yukon Do It Passenger</Commodity>
+<Pay>558.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 10:01:05</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366688700</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Faro Yukon Do It Passenger</Commodity>
+<Pay>558.00</Pay>
+<Expires>3 days</Expires>
+<ExpireDateTime>2022-11-02 03:31:03</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366639490</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Faro Yukon Do It Passenger</Commodity>
+<Pay>558.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 10:01:04</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366662986</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Ross River Yukon Do It Passenger</Commodity>
+<Pay>558.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 18:31:02</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366721181</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Ross River Yukon Do It Passenger</Commodity>
+<Pay>558.00</Pay>
+<Expires>3 days</Expires>
+<ExpireDateTime>2022-11-02 15:01:02</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366707040</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Faro Yukon Do It Passenger</Commodity>
+<Pay>558.00</Pay>
+<Expires>3 days</Expires>
+<ExpireDateTime>2022-11-02 10:00:59</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366718265</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Ross River Yukon Do It Passenger</Commodity>
+<Pay>558.00</Pay>
+<Expires>3 days</Expires>
+<ExpireDateTime>2022-11-02 14:00:59</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366634344</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Ross River Yukon Do It Passenger</Commodity>
+<Pay>558.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 08:30:58</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366781641</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Ross River Yukon Do It Passenger</Commodity>
+<Pay>558.00</Pay>
+<Expires>4 days</Expires>
+<ExpireDateTime>2022-11-03 12:00:59</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366797638</Id>
+<Location>CYDM</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYDM</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Ross River Yukon Do It Passenger</Commodity>
+<Pay>558.00</Pay>
+<Expires>4 days</Expires>
+<ExpireDateTime>2022-11-03 17:30:57</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>294390550</Id>
+<Location>CYDM</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>CYBF</FromIcao>
+<Amount>244</Amount>
+<UnitType>kg</UnitType>
+<Commodity>100LL Fuel</Commodity>
+<Pay>0.00</Pay>
+<Expires>never</Expires>
+<ExpireDateTime>9999/1/1 00:00:00</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366588586</Id>
+<Location>CYHT</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYHT</FromIcao>
+<Amount>2</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>527.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 02:30:59</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366798224</Id>
+<Location>CYMA</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYMA</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Faro Yukon Do It Passenger</Commodity>
+<Pay>857.00</Pay>
+<Expires>4 days</Expires>
+<ExpireDateTime>2022-11-03 17:31:03</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366794948</Id>
+<Location>CYMA</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYMA</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Faro Yukon Do It Passenger</Commodity>
+<Pay>857.00</Pay>
+<Expires>4 days</Expires>
+<ExpireDateTime>2022-11-03 16:31:02</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366758306</Id>
+<Location>CYMA</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYMA</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Mayo Yukon Do It Passenger</Commodity>
+<Pay>857.00</Pay>
+<Expires>4 days</Expires>
+<ExpireDateTime>2022-11-03 04:00:57</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366632420</Id>
+<Location>CYMA</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYMA</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Faro Yukon Do It Passenger</Commodity>
+<Pay>857.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 07:31:08</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366639818</Id>
+<Location>CYXY</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>CYXY</FromIcao>
+<Amount>2160</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>3364.00</Pay>
+<Expires>12 hrs</Expires>
+<ExpireDateTime>2022-10-30 08:01:10</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366642558</Id>
+<Location>CYXY</Location>
+<ToIcao>CEX4</ToIcao>
+<FromIcao>CYXY</FromIcao>
+<Amount>1853</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>2863.00</Pay>
+<Expires>1 days</Expires>
+<ExpireDateTime>2022-10-30 20:01:10</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366805863</Id>
+<Location>CYXY</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYXY</FromIcao>
+<Amount>169</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>873.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 09:01:07</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366638410</Id>
+<Location>CYXY</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYXY</FromIcao>
+<Amount>854</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>1616.00</Pay>
+<Expires>7 hrs</Expires>
+<ExpireDateTime>2022-10-30 02:31:12</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366641189</Id>
+<Location>CYXY</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYXY</FromIcao>
+<Amount>942</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>1840.00</Pay>
+<Expires>1 days</Expires>
+<ExpireDateTime>2022-10-30 21:31:12</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366645439</Id>
+<Location>CYXY</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>CYXY</FromIcao>
+<Amount>1822</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>3230.00</Pay>
+<Expires>19 hrs</Expires>
+<ExpireDateTime>2022-10-30 15:01:12</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366686197</Id>
+<Location>CYXY</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CYXY</FromIcao>
+<Amount>6</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Passengers</Commodity>
+<Pay>1915.00</Pay>
+<Expires>1 days</Expires>
+<ExpireDateTime>2022-10-31 07:31:08</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366742625</Id>
+<Location>CZFA</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CZFA</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Faro Yukon Do It Passenger</Commodity>
+<Pay>857.00</Pay>
+<Expires>4 days</Expires>
+<ExpireDateTime>2022-11-02 22:31:03</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366641504</Id>
+<Location>CZFA</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CZFA</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Mayo Yukon Do It Passenger</Commodity>
+<Pay>857.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 11:00:58</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366753865</Id>
+<Location>CZFA</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>CZFA</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Faro Yukon Do It Passenger</Commodity>
+<Pay>857.00</Pay>
+<Expires>4 days</Expires>
+<ExpireDateTime>2022-11-03 02:30:57</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>true</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366767664</Id>
+<Location>PAEI</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>PAEI</FromIcao>
+<Amount>3</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Passengers</Commodity>
+<Pay>1817.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 15:01:05</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366774795</Id>
+<Location>PAFA</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>PAFA</FromIcao>
+<Amount>3</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Passengers</Commodity>
+<Pay>1773.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 04:31:05</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366733520</Id>
+<Location>PAGS</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>PAGS</FromIcao>
+<Amount>136</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>1276.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-11-01 10:30:57</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366694519</Id>
+<Location>PAGY</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>PAGY</FromIcao>
+<Amount>1</Amount>
+<UnitType>passengers</UnitType>
+<Commodity>Passenger</Commodity>
+<Pay>897.00</Pay>
+<Expires>15 hrs</Expires>
+<ExpireDateTime>2022-10-30 10:31:07</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366730669</Id>
+<Location>PAJN</Location>
+<ToIcao>CZFA</ToIcao>
+<FromIcao>PAJN</FromIcao>
+<Amount>313</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>2873.00</Pay>
+<Expires>3 days</Expires>
+<ExpireDateTime>2022-11-02 00:30:57</ExpireDateTime>
+<Express>True</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+<Assignment>
+<Id>366741813</Id>
+<Location>PAYA</Location>
+<ToIcao>CYMA</ToIcao>
+<FromIcao>PAYA</FromIcao>
+<Amount>532</Amount>
+<UnitType>kg</UnitType>
+<Commodity>Cargo</Commodity>
+<Pay>2173.00</Pay>
+<Expires>2 days</Expires>
+<ExpireDateTime>2022-10-31 21:01:06</ExpireDateTime>
+<Express>False</Express>
+<PtAssignment>false</PtAssignment>
+<Type>Trip-Only</Type>
+<AircraftId>0</AircraftId>
+</Assignment>
+</IcaoJobsTo>

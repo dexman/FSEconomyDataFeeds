@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<AircraftItems query="TestQuery" total="5" xmlns="https://server.fseconomy.net" xmlns:xsi="httsp://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="https://server.fseconomy.net/static/xsd/datafeed_aircraft.xsd">
+<Aircraft>
+<SerialNumber>14591</SerialNumber>
+<MakeModel>Cessna 182 Skylane</MakeModel>
+<Registration>C-FDUW</Registration>
+<Owner>Bank of FSE</Owner>
+<Location>CZFA</Location>
+<LocationName>Faro, Faro, Yukon Territory, Canada</LocationName>
+<Home>CYQG</Home>
+<SalePrice>0.00</SalePrice>
+<SellbackPrice>129934.00</SellbackPrice>
+<Equipment>IFR/AP/GPS</Equipment>
+<RentalDry>145.00</RentalDry>
+<RentalWet>209.00</RentalWet>
+<RentalType>hour</RentalType>
+<Bonus>45</Bonus>
+<RentalTime>25200</RentalTime>
+<RentedBy>Not rented.</RentedBy>
+<FuelPct>0.09</FuelPct>
+<NeedsRepair>0</NeedsRepair>
+<AirframeTime>102:01</AirframeTime>
+<EngineTime>102:01</EngineTime>
+<TimeLast100hr>17:57</TimeLast100hr>
+<LeasedFrom>NA</LeasedFrom>
+<MonthlyFee>1299.00</MonthlyFee>
+<FeeOwed>0.00</FeeOwed>
+</Aircraft>
+<Aircraft>
+<SerialNumber>28567</SerialNumber>
+<MakeModel>Cessna 185 Skywagon</MakeModel>
+<Registration>N308BS</Registration>
+<Owner>airboss</Owner>
+<Location>CZFA</Location>
+<LocationName>Faro, Faro, Yukon Territory, Canada</LocationName>
+<Home>CZFA</Home>
+<SalePrice>0.00</SalePrice>
+<SellbackPrice>189955.00</SellbackPrice>
+<Equipment>IFR/AP/GPS</Equipment>
+<RentalDry>0.00</RentalDry>
+<RentalWet>0.00</RentalWet>
+<RentalType>hour</RentalType>
+<Bonus>0</Bonus>
+<RentalTime>36000</RentalTime>
+<RentedBy>Not rented.</RentedBy>
+<FuelPct>0.35</FuelPct>
+<NeedsRepair>0</NeedsRepair>
+<AirframeTime>75:46</AirframeTime>
+<EngineTime>75:46</EngineTime>
+<TimeLast100hr>75:46</TimeLast100hr>
+<LeasedFrom>NA</LeasedFrom>
+<MonthlyFee>1900.00</MonthlyFee>
+<FeeOwed>0.00</FeeOwed>
+</Aircraft>
+<Aircraft>
+<SerialNumber>36075</SerialNumber>
+<MakeModel>Cessna 206 Stationair</MakeModel>
+<Registration>C-FEGN</Registration>
+<Owner>Bank of FSE</Owner>
+<Location>CZFA</Location>
+<LocationName>Faro, Faro, Yukon Territory, Canada</LocationName>
+<Home>CZFA</Home>
+<SalePrice>0.00</SalePrice>
+<SellbackPrice>144798.00</SellbackPrice>
+<Equipment>VFR/AP</Equipment>
+<RentalDry>156.00</RentalDry>
+<RentalWet>229.00</RentalWet>
+<RentalType>hour</RentalType>
+<Bonus>43</Bonus>
+<RentalTime>10800</RentalTime>
+<RentedBy>Not rented.</RentedBy>
+<FuelPct>0.75</FuelPct>
+<NeedsRepair>0</NeedsRepair>
+<AirframeTime>06:08</AirframeTime>
+<EngineTime>06:08</EngineTime>
+<TimeLast100hr>06:08</TimeLast100hr>
+<LeasedFrom>NA</LeasedFrom>
+<MonthlyFee>1448.00</MonthlyFee>
+<FeeOwed>0.00</FeeOwed>
+</Aircraft>
+<Aircraft>
+<SerialNumber>19013</SerialNumber>
+<MakeModel>Grumman Tiger</MakeModel>
+<Registration>D-DKEL</Registration>
+<Owner>Bank of FSE</Owner>
+<Location>CZFA</Location>
+<LocationName>Faro, Faro, Yukon Territory, Canada</LocationName>
+<Home>EDFM</Home>
+<SalePrice>0.00</SalePrice>
+<SellbackPrice>141151.00</SellbackPrice>
+<Equipment>IFR/AP/GPS</Equipment>
+<RentalDry>166.00</RentalDry>
+<RentalWet>216.00</RentalWet>
+<RentalType>hour</RentalType>
+<Bonus>31</Bonus>
+<RentalTime>10800</RentalTime>
+<RentedBy>Not rented.</RentedBy>
+<FuelPct>0.47</FuelPct>
+<NeedsRepair>0</NeedsRepair>
+<AirframeTime>29:36</AirframeTime>
+<EngineTime>29:36</EngineTime>
+<TimeLast100hr>29:36</TimeLast100hr>
+<LeasedFrom>NA</LeasedFrom>
+<MonthlyFee>1412.00</MonthlyFee>
+<FeeOwed>0.00</FeeOwed>
+</Aircraft>
+<Aircraft>
+<SerialNumber>45448</SerialNumber>
+<MakeModel>Gulfstream Twin Commander 690B (Carenado)</MakeModel>
+<Registration>JT335</Registration>
+<Owner>jtena</Owner>
+<Location>CZFA</Location>
+<LocationName>Faro, Faro, Yukon Territory, Canada</LocationName>
+<Home>CYMA</Home>
+<SalePrice>0.00</SalePrice>
+<SellbackPrice>406057.00</SellbackPrice>
+<Equipment>IFR/AP/GPS</Equipment>
+<RentalDry>585.00</RentalDry>
+<RentalWet>1017.00</RentalWet>
+<RentalType>hour</RentalType>
+<Bonus>120</Bonus>
+<RentalTime>3600</RentalTime>
+<RentedBy>Not rented.</RentedBy>
+<FuelPct>0.09</FuelPct>
+<NeedsRepair>1</NeedsRepair>
+<AirframeTime>63:55</AirframeTime>
+<EngineTime>63:55</EngineTime>
+<TimeLast100hr>63:55</TimeLast100hr>
+<LeasedFrom>NA</LeasedFrom>
+<MonthlyFee>4061.00</MonthlyFee>
+<FeeOwed>28427.00</FeeOwed>
+</Aircraft>
+</AircraftItems>

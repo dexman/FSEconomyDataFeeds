@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<AircraftAliasItems xmlns="https://server.fseconomy.net" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="https://server.fseconomy.net/static/xsd/datafeed_aircraftaliases.xsd">
+<AircraftAliases>
+<MakeModel>Aermacchi - Lockheed AL-60</MakeModel>
+<Alias>A320_NEO-United Airlines 8K (A32NX Converted)</Alias>
+<Alias>Aermacchi MB326H</Alias>
+<Alias>Airbus A330-900neo Corsair</Alias>
+</AircraftAliases>
+</AircraftAliasItems>
